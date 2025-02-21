@@ -53,19 +53,6 @@ This project is licensed under the MIT license.
 
 ## Questions
 
-If you have any questions, please feel free to contact me at jacquilyn.fletcher89@gmail.com. 
-You can also find more of my work at [Jacquilyn-F](https://github.com/Jacquilyn-F).
-
-
-
-
-
-
-
-
-
-
-
-
-        ```
+- If you have any questions, please feel free to contact me at jacquilyn.fletcher89@gmail.com. 
+- You can also find more of my work at [Jacquilyn-F](https://github.com/Jacquilyn-F).
 
