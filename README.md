@@ -44,7 +44,7 @@ As a developer, I aim to create a command-line application using SQL that offers
 2. Follow the prompts to manage employees, roles, and departments.
 
 Walkthrough Video: 
-
+https://drive.google.com/file/d/1JZW2zWd-_3sjro9ONs5_tQmyOpCiOmb3/view
 
 ## License
 
@@ -53,7 +53,8 @@ This project is licensed under the MIT license.
 
 ## Questions
 
-If you have any questions, please feel free to contact me at jacquilyn.fletcher89@gmail.com. You can also find more of my work at [Jacquilyn-F](https://github.com/Jacquilyn-F).
+If you have any questions, please feel free to contact me at jacquilyn.fletcher89@gmail.com. 
+You can also find more of my work at [Jacquilyn-F](https://github.com/Jacquilyn-F).
 
 
 
