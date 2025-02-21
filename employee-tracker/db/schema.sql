@@ -2,8 +2,6 @@ DROP TABLE IF EXISTS employee;
 DROP TABLE IF EXISTS role;
 DROP TABLE IF EXISTS department;
 
-/c employee-tracker/db/schema.sql
-
 CREATE TABLE department (
   id SERIAL PRIMARY KEY,
   name VARCHAR(30) UNIQUE NOT NULL
@@ -26,5 +24,3 @@ CREATE TABLE employee (
   FOREIGN KEY (role_id) REFERENCES role(id),
   FOREIGN KEY (manager_id) REFERENCES employee(id)
 );
-
-/dt;
